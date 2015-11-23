@@ -6,4 +6,4 @@ Use this to hide/show etc. behavior based on the observables tickerCounter & tic
 Start with tickerOn, set loop to the number of times you want to repeat.
 Also setting a loopFn function would call that function on each loop.
 
-Info and example: https://jsfiddle.net/akrion/6Lyxtbyj/
+Info and example [HERE](https://jsfiddle.net/akrion/6Lyxtbyj/#base)
